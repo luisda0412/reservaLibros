@@ -1,0 +1,68 @@
+{
+  "libros": [
+    {
+      "titulo": "One Piece",
+      "autor": "Eiichiro Oda",
+      "anio": "1999",
+      "imagen": "/src/img/onepiecemanga.jpg",
+      "estado": 0,
+      "id": 1
+    },
+    {
+      "titulo": "Berserk",
+      "autor": "Kentaro Miura",
+      "anio": "1999",
+      "imagen": "/src/img/berserkmanga.jpg",
+      "estado": 1,
+      "id": 2
+    },
+    {
+      "titulo": "Vagabond",
+      "autor": "Takehiko Inoue",
+      "anio": "1998",
+      "imagen": "/src/img/vagabondmanga.jpg",
+      "estado": 1,
+      "id": 3
+    },
+    {
+      "titulo": "Monster",
+      "autor": "Naoki Urasawa",
+      "anio": "1995",
+      "imagen": "/src/img/monstermanga.jpg",
+      "estado": 1,
+      "id": 4
+    },
+    {
+      "titulo": "Chainsaw Man",
+      "autor": "Tatsuki Fujimoto",
+      "anio": "2018",
+      "imagen": "/src/img/chainsaw.jpg",
+      "estado": 1,
+      "id": 5
+    },
+    {
+      "titulo": "Attack on Titan",
+      "autor": "Hajime Isayama",
+      "anio": "2009",
+      "imagen": "/src/img/aot.jpg",
+      "estado": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Goodnight Punpun",
+      "autor": "Inio Asano",
+      "anio": "2008",
+      "imagen": "/src/img/punpun.jpg",
+      "estado": 1,
+      "id": 7
+    },
+    {
+      "titulo": "Naruto",
+      "autor": "Masashi Kishimoto",
+      "anio": "1999",
+      "imagen": "/src/img/naruto.jpg",
+      "estado": 1,
+      "id": 8
+    }
+  ]
+}

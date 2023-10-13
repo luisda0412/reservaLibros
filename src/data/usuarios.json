@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "nombre": "admin",
+      "correo": "admin@gmail.com",
+      "clave": "$2a$10$zhW3IH52JHV/FeU3VXYtOOaa.Nzdo5udnE3rIIki/armGroLmMVZ6",
+      "id": "lnmarn79ane5g3whq6t"
+    },
+    {
+      "nombre": "Luis David",
+      "correo": "luis@gmail.com",
+      "clave": "$2a$10$0AIvflHT3I4YSwHkRmBKAeuBF4lsVn8YMmXH1jUMz9jxgQdfL6aAi",
+      "libros": [
+        {
+          "titulo": "One Piece",
+          "autor": "Eiichiro Oda",
+          "anio": "1999",
+          "imagen": "/src/img/onepiecemanga.jpg",
+          "estado": 0,
+          "id": 1
+        }
+      ],
+      "id": "lnnrgdyr7vx9bk9x9x7"
+    }
+  ]
+}
